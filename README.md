@@ -2,7 +2,7 @@
 
 A game that will flash random cards for a player to recreate the exact sequence.
 
-### Rules
+### Rules and features
 
 - A sequence of cards will be flashed on the screen for 3 - 5 seconds for player to memorize 
 - Player will select a card from a list of cards showing for 5 seconds to recreate the sequence that was flashed

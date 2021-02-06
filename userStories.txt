@@ -1,0 +1,12 @@
+User Stories
+
+1. As a student on a bus, I want to play a game so that I will build my muscle memory.
+2. As a new parent, I want to train my child's muscle memory for the child to get practice from an early age.
+3. As lumosity.com, we want to buy Simon's card so that we can add it to our list of memory building exercises. 
+4. As a 13 year old girl, I want to play a educative game, that will keep me distracted from social media.
+5. As a 10 year old boy, I want to play a competitive game, that will show me new high score.
+6. As a single parent, I want my child playing a educative game, so that they are busy during the car ride.
+7. As a teacher, I want my student to play Simon's cards, so that they have fun and train core brain muscles.
+8. As a teacher, I want my student to build a game, so that we can develop it in java and Andriod studio.
+9. As an elderly person, I want to work my muscle memory, so that I can keep my brain active.
+10. As a brain surgeon, I want a game for muscle memory, so it can help in the study of my patients.
