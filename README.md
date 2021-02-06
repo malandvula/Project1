@@ -9,3 +9,7 @@ A game that will flash random cards for a player to recreate the exact sequence.
 - Every correct sequence matched will play another round with an additional card add to the next random sequence of cards, until a max length of 10 cards is reached
 - Game will level up by displaying an additional 2 cards for a max of 7 cards to pick from
 - Player will be given 3 attempts to complete game
+
+### Vision statement
+
+For mobile and/or web users seeking to pass time playing Simon's cards that help building muscle memory unlike other distractive games, our game provides leisure for ages 6+
